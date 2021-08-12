@@ -1,0 +1,22 @@
+h2
+{
+	color: rgba(0, 0, 255, 0.589); 
+	font-size: 30px;
+}
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image:url("bg1.jpg") ;
+	background-position: center;
+	background-size: cover;
+}
+
+#mycanvas{
+     border: width 10px;
+   background-color: whitesmoke;
+   border-style:ridge ;
+}
